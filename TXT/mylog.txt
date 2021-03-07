@@ -14,3 +14,5 @@ ZCZC W01 20 L13 GSGS and read essential command
 ZCZC W01 40 L14 create .bash_aliases and try it
 ZCZC W01 75 L15 setup git & gitHub repos
 ZCZC W01 15 L16 update mylog.txt
+ZCZC W01 130 L17 Reading some articles and list my 10 interesting links
+ZCZC W01 15 L18 learn sed and awk
