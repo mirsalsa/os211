@@ -9,4 +9,8 @@ ZCZC W01 60 L01 Scele - Pop Quiz (1, 2, 3)
 ZCZC W01 100 L02 Zoom (Sync session)
 ZCZC W01 60 L23 Discord - Pop Quiz (1, 2, 3, 4, 5)
 ZCZC W01 150 L11 Install Debian
-ZCCZ W01 20 L05 GSGS: Virtualbox, bash
+ZCZC W01 20 L12 GSGS: Virtualbox, bash
+ZCZC W01 20 L13 GSGS and read essential command
+ZCZC W01 40 L14 create .bash_aliases and try it
+ZCZC W01 75 L15 setup git & gitHub repos
+ZCZC W01 15 L16 update mylog.txt
