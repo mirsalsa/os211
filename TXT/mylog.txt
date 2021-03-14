@@ -16,3 +16,10 @@ ZCZC W01 75 L15 setup git & gitHub repos
 ZCZC W01 15 L16 update mylog.txt
 ZCZC W01 130 L17 Reading some articles and list my 10 interesting links
 ZCZC W01 15 L18 learn sed and awk
+ZCZC W02 150 L10 Trying demos and generate pub key
+ZCZC W02 130 L05 Find out interesting links for week02
+ZCZC W02 30 L25 Study about c language
+ZCZC W02 120 L26 Watching Sweet Home
+ZCZC W02 60 L22 Watching new videos from Nihonggo Mantappu Channel
+ZCZC W02 100 L08 Trying new cake recipe
+ZCZC W02 20 L02 Pop Quiz
