@@ -31,3 +31,11 @@ ZCZC W03 15 L07 try demo week02 and 03
 ZCZC W03 120 L26 watch 'Spirited Away'
 ZCZC W03 150 L05 Finding interest link part 2
 ZCZC W03 60 L06 Read OSC-10 (chap 13,14,15)
+ZCZC W04 100 L02 Sync session
+ZCZC W04 30 L01 Pop Quiz
+ZCZC W04 200 L05 Finding interest link 
+ZCZC W04 120 L10 assignment this week
+ZCZC W04 60 L22 Youtube related
+ZCZC W04 40 L06 Read OSC-10 (chapter 9)
+ZCZC W04 30 L23 Discord related
+ZCZC W04 50 L08 Trying Something
