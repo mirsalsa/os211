@@ -39,3 +39,12 @@ ZCZC W04 60 L22 Youtube related
 ZCZC W04 40 L06 Read OSC-10 (chapter 9)
 ZCZC W04 30 L23 Discord related
 ZCZC W04 50 L08 Trying Something
+ZCZC W05 100 L02 Sync session
+ZCZC W05 40 L01 Pop Quiz
+ZCZC W05 180 L05 Finding interest link 
+ZCZC W05 120 L10 assignment this week
+ZCZC W05 70 L22 Youtube related
+ZCZC W05 30 L06 Read OSC-10 (chapter 9)
+ZCZC W05 30 L23 Discord related
+ZCZC W05 50 L08 Trying Something
+ZCZC W05 90 L26 TOTORO (Ghibli Studio)
