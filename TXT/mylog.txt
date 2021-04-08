@@ -48,3 +48,12 @@ ZCZC W05 30 L06 Read OSC-10 (chapter 9)
 ZCZC W05 30 L23 Discord related
 ZCZC W05 50 L08 Trying Something
 ZCZC W05 90 L26 TOTORO (Ghibli Studio)
+ZCZC W06 90 L02 Sync session
+ZCZC W06 50 L01 Pop Quiz
+ZCZC W06 180 L05 Finding interest link 
+ZCZC W06 100 L10 assignment this week
+ZCZC W06 70 L22 Youtube related
+ZCZC W06 30 L06 Read OSC-10 (chapter 3 & 4)
+ZCZC W06 30 L23 Discord related
+ZCZC W06 50 L08 Trying Something
+ZCZC W06 100 L26 This Is Us
