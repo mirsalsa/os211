@@ -57,3 +57,12 @@ ZCZC W06 30 L06 Read OSC-10 (chapter 3 & 4)
 ZCZC W06 30 L23 Discord related
 ZCZC W06 50 L08 Trying Something
 ZCZC W06 100 L26 This Is Us
+ZCZC W07 90 L02 Sync session
+ZCZC W07 35 L01 Pop Quiz
+ZCZC W07 180 L05 Finding interest link 
+ZCZC W07 100 L10 assignment this week
+ZCZC W07 90 L22 Youtube related
+ZCZC W07 30 L06 Read OSC-10 (chapter 3 & 4)
+ZCZC W07 30 L23 Discord related
+ZCZC W07 30 L08 Trying Something
+ZCZC W07 160 L26 Vincenzo 2 eps

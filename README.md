@@ -9,7 +9,7 @@ Operating Systems 2021-1
 4. [Week 04](https://mirsalsa.github.io/os211/W04/)
 5. [Week 05](https://mirsalsa.github.io/os211/W05/)
 6. [Week 06](https://mirsalsa.github.io/os211/W06/)
-7. Week 07
+7. [Week 07](https://mirsalsa.github.io/os211/W07/)
 8. Week 08
 9. Week 09
 10. Week 10
